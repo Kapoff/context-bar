@@ -1,0 +1,1 @@
+{ "name": "context-bar", "version": "0.1.0", "description": "Context fill bar above the prompt (120k/150k/200k levels) and a Compact button that drafts /compact <focus> with Haiku", "types": "./types/index.d.ts" }
